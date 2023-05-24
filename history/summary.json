@@ -20,7 +20,7 @@
   {
     "name": "Whipcode Site",
     "url": "https://whipcode.app",
-    "icon": "https://icons.duckduckgo.com/ip3/whipcode.app.ico",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "whipcode-site",
     "status": "up",
     "uptime": "100.00%",
@@ -38,7 +38,7 @@
   {
     "name": "RapidAPI Proxy",
     "url": "https://rapidapi.com",
-    "icon": "https://icons.duckduckgo.com/ip3/rapidapi.com.ico",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rapid-api-proxy",
     "status": "up",
     "uptime": "100.00%",
