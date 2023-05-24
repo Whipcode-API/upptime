@@ -5,10 +5,13 @@ sites:
   - name: Whipcode API
     url: $WHIPCODE_BACKEND
     method: POST
+    icon: https://icons.duckduckgo.com/ip3/null.ico
   - name: Whipcode Site
     url: https://whipcode.app
+    icon: https://icons.duckduckgo.com/ip3/null.ico
   - name: RapidAPI Proxy
     url: https://rapidapi.com
+    icon: https://icons.duckduckgo.com/ip3/null.ico
 
 status-website:
   cname: status.whipcode.app
