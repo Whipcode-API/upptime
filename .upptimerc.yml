@@ -10,7 +10,12 @@ sites:
     url: https://whipcode.app
     icon: https://icons.duckduckgo.com/ip3/null.ico
   - name: RapidAPI Proxy
-    url: https://rapidapi.com
+    url: https://whipcode.p.rapidapi.com
+    method: POST
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401
     icon: https://icons.duckduckgo.com/ip3/null.ico
 
 status-website:
