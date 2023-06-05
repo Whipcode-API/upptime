@@ -22,7 +22,7 @@
     "url": "https://whipcode.app",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "whipcode-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1530,
     "timeMonth": 1442,
     "timeYear": 1442,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-05": 0
+    }
   },
   {
     "name": "RapidAPI Proxy",
@@ -41,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rapid-api-proxy",
     "status": "up",
-    "uptime": "98.76%",
+    "uptime": "98.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.08%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "98.76%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.79%",
     "time": 890,
     "timeDay": 374,
     "timeWeek": 659,
