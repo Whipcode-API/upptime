@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "name": "Whipcode API",
+    "url": "$WHIPCODE_BACKEND",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "whipcode-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 439,
+    "timeDay": 414,
+    "timeWeek": 362,
+    "timeMonth": 439,
+    "timeYear": 439,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Whipcode Site",
+    "url": "https://whipcode.app",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "whipcode-site",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1279,
+    "timeDay": 557,
+    "timeWeek": 1252,
+    "timeMonth": 1279,
+    "timeYear": 1279,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "RapidAPI Proxy",
+    "url": "https://whipcode.p.rapidapi.com",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "rapid-api-proxy",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 868,
+    "timeDay": 237,
+    "timeWeek": 639,
+    "timeMonth": 868,
+    "timeYear": 868,
+    "dailyMinutesDown": {}
+  }
+]
