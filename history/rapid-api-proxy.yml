@@ -1,7 +1,7 @@
 url: https://whipcode.p.rapidapi.com
-status: down
-code: 500
-responseTime: 256
-lastUpdated: 2023-10-28T08:59:39.364Z
+status: up
+code: 401
+responseTime: 321
+lastUpdated: 2023-10-28T09:12:01.202Z
 startTime: Mon Jun 05 2023 09:13:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
