@@ -4,7 +4,7 @@
     "url": "$WHIPCODE_BACKEND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "whipcode-api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
@@ -16,6 +16,7 @@
     "timeMonth": 516,
     "timeYear": 519,
     "dailyMinutesDown": {
+      "2024-05-24": 0,
       "2024-05-21": 40,
       "2024-04-19": 21,
       "2024-04-13": 175,
@@ -57,7 +58,7 @@
     "timeDay": 140,
     "timeWeek": 103,
     "timeMonth": 111,
-    "timeYear": 177,
+    "timeYear": 176,
     "dailyMinutesDown": {}
   },
   {
@@ -75,7 +76,7 @@
     "timeDay": 158,
     "timeWeek": 259,
     "timeMonth": 233,
-    "timeYear": 325,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2024-03-09": 18,
       "2024-03-04": 51,
