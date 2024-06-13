@@ -20,6 +20,7 @@ sites:
 
 status-website:
   introTitle: "**whipcode**"
+  introMessage: "[<- Home](https://whipcode.app)"
   cname: status.whipcode.app
   name: Status | Whipcode
   themeUrl: https://av9.dev/whipcode/assets/status.css
@@ -38,4 +39,4 @@ workflowSchedule:
   uptime: "*/5 * * * *"
 
 i18n:
-  footer: "[Home](https://whipcode.app)"
+  footer: ""
