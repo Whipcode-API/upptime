@@ -19,6 +19,8 @@ sites:
     icon: https://icons.duckduckgo.com/ip3/null.ico
 
 status-website:
+  introTitle: "**Whipcode** Status Page"
+  introMessage: Both the Whipcode API and the RapidAPI Proxy need to be up for the API to be accessible
   cname: status.whipcode.app
   name: Status | Whipcode
   themeUrl: https://av9.dev/whipcode/assets/status.css
@@ -37,4 +39,4 @@ workflowSchedule:
   uptime: "*/5 * * * *"
 
 i18n:
-  footer: Head back [home](https://whipcode.app)
+  footer: "[Home](https://whipcode.app)"
