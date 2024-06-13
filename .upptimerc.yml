@@ -19,7 +19,7 @@ sites:
     icon: https://icons.duckduckgo.com/ip3/null.ico
 
 status-website:
-  introTitle: "**Status**"
+  introTitle: "**Uptime Monitor**"
   introMessage: "[<- Home](https://whipcode.app)"
   cname: status.whipcode.app
   name: Status | Whipcode
