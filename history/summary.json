@@ -4,7 +4,7 @@
     "url": "$WHIPCODE_BACKEND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "whipcode-api",
-    "status": "up",
+    "status": "down",
     "uptime": "96.06%",
     "uptimeDay": "72.48%",
     "uptimeWeek": "96.07%",
